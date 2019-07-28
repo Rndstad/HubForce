@@ -1,0 +1,7 @@
+name: HubForce
+author: Randstad
+version: 1.0
+website: http://service.rndstad.me
+main: me.rndstad.hubforce.HFPlugin
+commands:
+  hub:
